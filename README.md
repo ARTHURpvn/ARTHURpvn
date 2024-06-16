@@ -1,13 +1,14 @@
 # ARTHURpvn
 
-- Cursando 3 ano de Ensino Médio com integração a Tecnico em Informatica
-- Pretendo fazer Engenharia de software ou ADS
+#### Pretendo fazer faculdade de engenharia de software ou Analise e Desenvolvimento de Software.
 
+#
 
-- Estou aprendendo ... React, Git, TypeScript, Tailwind CSS.
-- Estou tentando evoluir minhas habilidades de programação para me tornar um FreeLancer rápido.
+### 3° Ano Ensino Médio / Tecnico em Informatica.
+### Pretendo ser Desenvolvedor Front-end.
 
-- 
+#
+
 ### Linguagens:
 1. HTML -- Avançado
 2. CSS -- Avançado
@@ -21,3 +22,7 @@
 
 - Ingles -- Intermediario
 - Espanhol -- Basico
+
+#
+
+ ### [Instagram](https://www.instagram.com/arthur.pvn/)
