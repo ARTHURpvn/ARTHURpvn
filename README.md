@@ -1,28 +1,30 @@
-# ARTHURpvn
+# Ola, Eu sou o Arthur
 
-#### Pretendo fazer faculdade de engenharia de software ou Analise e Desenvolvimento de Software.
+### Sobre Mim
+* Sou um desenvolvedor Front-end Junior.
+* Estou Finalizando um curso tecnico em Informatica para Internet na Etec.
+* Atualmente não estou trabalhando, mas estou sempre aprendendo coisas novas.
+* Ajudo em um projeto de GTA RP usando o React e Lua.
 
 #
-
-### 3° Ano Ensino Médio / Tecnico em Informatica.
-### Pretendo ser Desenvolvedor Front-end.
-
-#
-
+ 
 ### Linguagens:
-1. HTML -- Avançado
-2. CSS -- Avançado
-3. JavaScript -- Intermediario/Avançado
-4. PHP -- Basico/Intermediario
-5. MySql -- Basico/Intermediario
-6. React -- Intermediario
-7. Node -- Basico
-8. TypeScript -- Intermediario
-9. TailWind -- Basico/Intermediario
 
-- Ingles -- Intermediario
-- Espanhol -- Basico
+<div style="display: flex">
+  <img src="/linguagens-programacao/HTML.png" style="width: 40px; margin-right: 10px;" alt="HTML"> 
+  <img src="/linguagens-programacao/CSS.png" style="width: 40px; margin-right: 10px;" alt="CSS">
+  <img src="/linguagens-programacao/JavaScript.png" style="width: 40px; margin-right: 10px;" alt="JavaScript">  
+  <img src="/linguagens-programacao/TypeScript.png" style="width: 40px; margin-right: 10px;" alt="TypeScript">  
+  <img src="/linguagens-programacao/React.png" style="width: 40px; margin-right: 10px;" alt="React.js"> 
+  <img src="/linguagens-programacao/Next.png" style="width: 40px; margin-right: 10px;" alt="Next.js">   
+  <img src="/linguagens-programacao/TailWind.png" style="width: 40px;" alt="TailWind CSS"> 
+</div>
 
 #
 
- ### [Instagram](https://www.instagram.com/arthur.pvn/)
+### Contato
+<div>
+ <img src="instagram.png" style="width: 50px;" href="https://www.instagram.com/arthur.pvn/" alt="Instagram"> 
+ <img src="twitch.png" style="width: 33px;" href="https://www.twitch.tv/arthurpvn" alt="Twitch"> 
+ <img src="linkedin.png" style="width: 47px;" href="https://www.linkedin.com/in/arthur-dos-santos-pavan-b39386243/?trk=opento_sprofile_topcard" alt="Twitch"> 
+</div>
