@@ -7,17 +7,20 @@
 * Ajudo em um projeto de GTA RP usando o React e Lua.
 
 #
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
  
 ### Linguagens:
 
-<div style="display: flex">
-  <img src="/linguagens-programacao/HTML.png" style="width: 40px; margin-right: 10px;" alt="HTML"> 
-  <img src="/linguagens-programacao/CSS.png" style="width: 40px; margin-right: 10px;" alt="CSS">
-  <img src="/linguagens-programacao/JavaScript.png" style="width: 40px; margin-right: 10px;" alt="JavaScript">  
-  <img src="/linguagens-programacao/TypeScript.png" style="width: 40px; margin-right: 10px;" alt="TypeScript">  
-  <img src="/linguagens-programacao/React.png" style="width: 40px; margin-right: 10px;" alt="React.js"> 
-  <img src="/linguagens-programacao/Next.png" style="width: 40px; margin-right: 10px;" alt="Next.js">   
-  <img src="/linguagens-programacao/TailWind.png" style="width: 40px;" alt="TailWind CSS"> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="PVN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PVN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PVN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PVN-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="PVN-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="PVN-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="PVN-TW" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 #
