@@ -1,18 +1,16 @@
-# Ola, Eu sou o Arthur
+# Olá, Eu sou o Arthur
 
 ### Sobre Mim
+
 * Sou um desenvolvedor Front-end Junior.
 * Estou Finalizando um curso tecnico em Informatica para Internet na Etec.
 * Atualmente não estou trabalhando, mas estou sempre aprendendo coisas novas.
 * Ajudo em um projeto de GTA RP usando o React e Lua.
 
-#
 
 ![ARTHURpvn GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTHURpvn&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHURpvn&layout=compact&theme=transparent&hide_border=true)
 
- 
-### Linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PVN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,9 +24,8 @@
 
 #
 
-### Contato
 <div>
- <img src="instagram.png" style="width: 50px;" href="https://www.instagram.com/arthur.pvn/" alt="Instagram"> 
- <img src="twitch.png" style="width: 33px;" href="https://www.twitch.tv/arthurpvn" alt="Twitch"> 
- <img src="linkedin.png" style="width: 47px;" href="https://www.linkedin.com/in/arthur-dos-santos-pavan-b39386243/?trk=opento_sprofile_topcard" alt="Twitch"> 
+ <a href = "https://www.instagram.com/arthur.pvn/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=blue&color=blue" target="_blank" /> </a>
+ <a href = "https://www.twitch.tv/arthurpvn" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white&labelColor=blue&color=blue" target="_blank" /> </a>
+ <a href = "https://www.linkedin.com/in/arthur-dos-santos-pavan-b39386243/?trk=opento_sprofile_topcard" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue" target="_blank" /> </a>
 </div>
