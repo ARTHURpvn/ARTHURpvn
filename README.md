@@ -2,10 +2,7 @@
 
 ### Sobre Mim
 
-* Sou um desenvolvedor Front-end Junior.
-* Estou Finalizando um curso tecnico em Informatica para Internet na Etec.
-* Atualmente não estou trabalhando, mas estou sempre aprendendo coisas novas.
-* Ajudo em um projeto de GTA RP usando o React e Lua.
+#### Estou concluindo um curso técnico em Informática para Internet na Etec e, mesmo sem estar no mercado de trabalho no momento, estou sempre em busca de novas aprendizagens. No meu tempo livre, contribuo para um projeto de GTA RP, onde posso brincar com React e Lua. Adoro transformar ideias em realidade e estou sempre pronto para o próximo desafio
 
 
 ![ARTHURpvn GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTHURpvn&show_icons=true&theme=transparent&hide_border=true)
