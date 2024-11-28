@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-#### Estou concluindo um curso técnico em Informática para Internet na Etec e, mesmo sem estar no mercado de trabalho no momento, estou sempre em busca de novas aprendizagens. No meu tempo livre, contribuo para um projeto de GTA RP, onde posso brincar com React e Lua. Adoro transformar ideias em realidade e estou sempre pronto para o próximo desafio
+#### Estou finalizando o curso técnico em Informática para Internet pela Etec e, mesmo sem atuar no mercado de trabalho no momento, estou constantemente expandindo minhas habilidades. Tenho experiência prática com React, Lua e TypeScript, e utilizo essas ferramentas em projetos como o desenvolvimento de sistemas para servidores de GTA RP. Sou apaixonado por transformar ideias em realidade, buscando sempre criar soluções criativas e eficientes. No meu tempo livre, dedico-me a projetos pessoais e desafios técnicos que me permitem crescer e explorar novas tecnologias. Estou sempre pronto para o próximo desafio!
 
 
 ![ARTHURpvn GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTHURpvn&show_icons=true&theme=transparent&hide_border=true)
