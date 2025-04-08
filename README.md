@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-#### Estou finalizando o curso técnico em Informática para Internet pela Etec e, mesmo sem atuar no mercado de trabalho no momento, estou constantemente expandindo minhas habilidades. Tenho experiência prática com React, Lua e TypeScript, e utilizo essas ferramentas em projetos como o desenvolvimento de sistemas para servidores de GTA RP. Sou apaixonado por transformar ideias em realidade, buscando sempre criar soluções criativas e eficientes. No meu tempo livre, dedico-me a projetos pessoais e desafios técnicos que me permitem crescer e explorar novas tecnologias. Estou sempre pronto para o próximo desafio!
+#### Graduando Engenharia de Software na uniFACEF e concluinte do curso técnico em Informática para Internet pela Etec. Tenho me especializado em desenvolvimento full-stack com foco em React, TypeScript e Python. Já atuei em projetos freelancers, desenvolvendo interfaces modernas, responsivas e voltadas à experiência do usuário. Busco constantemente novos aprendizados e desafios que me permitam aplicar e expandir meus conhecimentos. Estou aberto a oportunidades onde eu possa contribuir com criatividade, comprometimento e uma mentalidade voltada para a evolução contínua.
 
 
 ![ARTHURpvn GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTHURpvn&show_icons=true&theme=transparent&hide_border=true)
