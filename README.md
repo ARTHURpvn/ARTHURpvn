@@ -75,11 +75,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ARTHURpvn&locale=pt-br&mode=weekly&theme=aura_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ARTHURpvn&locale=pt-br&mode=weekly&theme=darcula&hide_border=true&border_radius=5&order=3&background=transparent" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ARTHURpvn/ARTHURpvn/output/snake.svg" alt="Snake animation" />
 
 ###
